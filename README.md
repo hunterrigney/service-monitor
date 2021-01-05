@@ -15,4 +15,4 @@ My preferred method of usage is <b>watch</b>, ex:
 ```
 watch --color -n 60 "sudo bash service-monitor.sh"
 ```
-Alternatively, if you do not have a consistent terminal, you can run it in a crontab, or use it manually when you want to rapidly check the status of multipel services.
+Alternatively, if you do not have a consistent terminal, you can run it in a crontab, or use it manually when you want to rapidly check the status of multiple services.
