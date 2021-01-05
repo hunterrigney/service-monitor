@@ -11,7 +11,7 @@ cd service-monitor
 sudo chmod +x service-monitor.sh
 ```
 ### Usage
-My preferred method of usage is watch, ex:
+My preferred method of usage is <b>watch</b>, ex:
 ```
 watch --color -n 60 "sudo bash service-monitor.sh"
 ```
