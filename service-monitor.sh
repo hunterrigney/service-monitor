@@ -14,11 +14,11 @@ server_monitor() {
       echo
   fi; }
  
-service=apache2                                          # passes apache2 to script
+service=apache2                                          # passes apache2 to function
 server_monitor
 
-service=mysqld                                           # passes mysql to script
+service=mysqld                                           # passes mysql to function
 server_monitor
 
-service=sshd                                             # passes apache2 to script
+service=sshd                                             # passes sshd to function
 server_monitor
